@@ -1,6 +1,6 @@
 # PostgreSQL-project
 
-An academic project that I first did while learning PostgreSQL
+An academic project that I did while learning PostgreSQL
 
 ## 1. Project Objective
 
